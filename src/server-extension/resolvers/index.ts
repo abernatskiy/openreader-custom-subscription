@@ -1,1 +1,1 @@
-export { CountResolver } from './customSubscription'
+export { StateResolver } from './customSubscription'
